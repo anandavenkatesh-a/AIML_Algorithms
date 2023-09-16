@@ -1,1 +1,1 @@
-## These are the some implementations common AIML problems.
+## These are the some of the implementations of common AIML problems.
